@@ -1,0 +1,7 @@
+streamlit==1.33.0
+yt-dlp==2023.12.30
+pydub==0.25.1
+pyaudioop
+demucs==4.0.1
+torch==2.1.0 --index-url https://download.pytorch.org/whl/cpu
+torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cpu
